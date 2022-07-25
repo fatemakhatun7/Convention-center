@@ -9,9 +9,17 @@ body{
    .carousel-item img{
     height: 500px;
    }
+   .lessen-width img{
+    width: 90%;
+   }
 }
 @media only screen and (min-width:480px){
-    
+    .carousel-item img{
+        height: 500px;
+       }
+       .lessen-width img{
+        width: 90%;
+       }
 }
 @media only screen and (min-width:767px){
     
