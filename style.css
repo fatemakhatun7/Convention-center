@@ -10,7 +10,7 @@ body{
     height: 500px;
    }
    .lessen-width img{
-    width: 90%;
+    width: 100%;
    }
 }
 @media only screen and (min-width:480px){
@@ -18,7 +18,7 @@ body{
         height: 500px;
        }
        .lessen-width img{
-        width: 90%;
+        width: 100%;
        }
 }
 @media only screen and (min-width:767px){
